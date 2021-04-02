@@ -1,4 +1,6 @@
 ### hi there!!, welcome to my latest git repo
+I'm curently taking my first steps in programing
+I'm learning frontend for a start and I'll appreciate getting resources that will aid my learing curve and transition in this robust world of tech.
 
 <!--
 **manuel773/manuel773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
